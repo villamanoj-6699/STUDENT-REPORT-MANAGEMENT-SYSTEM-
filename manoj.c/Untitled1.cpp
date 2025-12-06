@@ -1,0 +1,11 @@
+admin 
+admin123 
+ADMIN
+staff 
+staff666 
+STAFF
+guest 
+guest456 
+GUEST
+user  user789 
+USER
